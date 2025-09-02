@@ -12,7 +12,7 @@ The 10 great houses
 [[Ruthar]]
 [[Sadeas]]
 [[Sebarial]]
-[[Thanandal]]
+[[Thanadal]]
 [[Vamah]]
 
 #country

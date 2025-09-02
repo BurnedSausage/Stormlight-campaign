@@ -11,7 +11,7 @@ DM: Ruben
 | Malou   |             | Yes     |
 | Martijn |             | Yes     |
 | Merijn  |             | Yes     |
-| Richard |             | Yes     |
+| Richard | [[Aila]]    | Yes     |
 
 ## Summary  
 

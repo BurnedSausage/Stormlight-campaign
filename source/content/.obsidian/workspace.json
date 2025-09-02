@@ -11,14 +11,14 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "aFile": "source/content/.obsidian/workspace.json",
+                "bFile": "source/content/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline"
             }
           },
           {
@@ -182,28 +179,29 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Sessions/Session 0 - 24-08-2025.md",
-    "NPC's/Taszo.md",
+    "Locations/Alethkar/The 10 great houses of Alethkar/Kholin.md",
+    "Locations/Alethkar/The 10 great houses of Alethkar/Thanadal.md",
+    "Locations/Alethkar/Alethkar.md",
+    "Locations/Iri/Iri.md",
     "Locations/Shinovar/Shinovar.md",
-    "NPC's/Shardbearer house thanandal.md",
-    "Locations/Alethkar/The 10 great houses of Alethkar/Thanandal.md",
     "Locations/The Shattered Plains/The Shattered Plains.md",
+    "Locations/Roshar.md",
+    "NPC's/Shardbearer house thanadal.md",
+    "NPC's/Taszo.md",
+    "Player characters/Aila.md",
+    "Player characters/Merikal.md",
     "Templates/Session template.md",
+    "Sessions/Session 0 - 24-08-2025.md",
     "index.md",
     "category-folder/index.md",
     "Templates",
     "Sessions",
-    "Player characters/Merikal.md",
     "Player characters",
     "NPC's",
     "Locations/Alethkar/Towns and city's/Kholinar.md",
-    "Locations/Alethkar/The 10 great houses of Alethkar/Kholin.md",
-    "Locations/Iri/Iri.md",
     "Locations/Alethkar/Towns and city's",
     "Locations/Alethkar/The 10 great houses of Alethkar",
-    "Locations/Alethkar/Alethkar.md",
     "Locations/The Shattered Plains",
-    "Locations/Roshar.md",
     "Locations/Iri",
     "Locations/Shinovar",
     "Locations/Alethkar",
