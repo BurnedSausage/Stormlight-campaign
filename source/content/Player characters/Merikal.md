@@ -1,6 +1,4 @@
-Player: Koen
-Origin: [[Alethkar |Alethi]], [[Iri|Iriali]]
-Path: Leader
+Player: Koen <br>Origin: [[Alethkar |Alethi]], [[Iri|Iriali]]<br>Path: Leader <br>
 ## Appearance
 Merikal is in all ways of the word average looking light eye with green eyes.
 Average height, average build etc.
