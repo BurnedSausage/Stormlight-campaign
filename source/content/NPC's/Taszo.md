@@ -1,0 +1,1 @@
+A [[Shinovar|Shin]] man the party encountered on their way to the shattered plains.
