@@ -1,8 +1,8 @@
 # Stormlight Campaign - Session log
 ___
 
-### Session x - {{date}} 
-Location: Malou's place<br>
+### Session x
+Location: <br>
 DM: Ruben
 
 | Player  | Character   | Present |
@@ -13,8 +13,18 @@ DM: Ruben
 | Merijn  |             | Yes     |
 | Richard |             | Yes     |
 
-{{wide
-## Session recap
+## Summary  
 
 
-}}
+## Major Events  
+- 
+
+
+## NPCs Introduced  
+-  
+
+## Open Threads / Quests  
+- 
+
+## Loot and rewards
+- 

@@ -25,10 +25,13 @@
             "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "file": "source/content/index.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (index)"
             }
           }
         ],
@@ -158,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "22ad44181fa0011f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,23 +193,23 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "index.md",
     "Sessions/Session 0 - 24-08-2025.md",
+    "NPC's/Taszo.md",
+    "Locations/Shinovar/Shinovar.md",
     "NPC's/Shardbearer house thanandal.md",
-    "category-folder/index.md",
+    "Locations/Alethkar/The 10 great houses of Alethkar/Thanandal.md",
+    "Locations/The Shattered Plains/The Shattered Plains.md",
     "Templates/Session template.md",
+    "index.md",
+    "category-folder/index.md",
     "Templates",
     "Sessions",
     "Player characters/Merikal.md",
     "Player characters",
-    "NPC's/Taszo.md",
     "NPC's",
     "Locations/Alethkar/Towns and city's/Kholinar.md",
-    "Locations/Alethkar/The 10 great houses of Alethkar/Thanandal.md",
     "Locations/Alethkar/The 10 great houses of Alethkar/Kholin.md",
-    "Locations/The Shattered Plains/The Shattered Plains.md",
     "Locations/Iri/Iri.md",
-    "Locations/Shinovar/Shinovar.md",
     "Locations/Alethkar/Towns and city's",
     "Locations/Alethkar/The 10 great houses of Alethkar",
     "Locations/Alethkar/Alethkar.md",
