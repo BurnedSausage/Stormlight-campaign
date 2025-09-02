@@ -11,14 +11,14 @@
             "id": "47ef711f7e8c1d64",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "source/content/.obsidian/workspace.json",
-                "bFile": "source/content/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "Player characters/Aila.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Aila"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Player characters/Aila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Aila"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Player characters/Aila.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Aila"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Player characters/Aila.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Aila"
             }
           },
           {
@@ -179,17 +182,19 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Player characters/Merikal.md",
+    "Player characters/Aila.md",
+    "Locations/Reshi Isles/Reshi Isles.md",
+    "Locations/Shinovar/Shinovar.md",
+    "Locations/Reshi Isles",
     "Locations/Alethkar/The 10 great houses of Alethkar/Kholin.md",
     "Locations/Alethkar/The 10 great houses of Alethkar/Thanadal.md",
     "Locations/Alethkar/Alethkar.md",
     "Locations/Iri/Iri.md",
-    "Locations/Shinovar/Shinovar.md",
     "Locations/The Shattered Plains/The Shattered Plains.md",
     "Locations/Roshar.md",
     "NPC's/Shardbearer house thanadal.md",
     "NPC's/Taszo.md",
-    "Player characters/Aila.md",
-    "Player characters/Merikal.md",
     "Templates/Session template.md",
     "Sessions/Session 0 - 24-08-2025.md",
     "index.md",
@@ -204,7 +209,6 @@
     "Locations/The Shattered Plains",
     "Locations/Iri",
     "Locations/Shinovar",
-    "Locations/Alethkar",
     "Images/Session 0.png",
     "Images/Map of roshar.png",
     "Images/Axehounds.jpg",
