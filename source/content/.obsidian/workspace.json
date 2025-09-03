@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sessions/Session 0 - 24-08-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "35bf7ec5b9eacb1e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "source/content/Private/Cool end note one liners.md",
-                "bFile": "source/content/Private/Cool end note one liners.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Cool end note one liners"
+              "title": "Session 0 - 24-08-2025"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "Cool one liners"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Cool one liners.md",
+                "file": "Sessions/Session 0 - 24-08-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cool one liners"
+              "title": "Backlinks for Session 0 - 24-08-2025"
             }
           },
           {
@@ -142,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Cool one liners.md",
+                "file": "Sessions/Session 0 - 24-08-2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cool one liners"
+              "title": "Outgoing links from Session 0 - 24-08-2025"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Cool one liners.md",
+                "file": "Sessions/Session 0 - 24-08-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cool one liners"
+              "title": "Outline of Session 0 - 24-08-2025"
             }
           },
           {
@@ -209,11 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "0cf631c7fabc1a8c",
   "lastOpenFiles": [
+    "Images/Session 0.png",
+    "Sessions/Session 0 - 24-08-2025.md",
+    "index.md",
     "private/Cool one liners.md",
     "private",
-    "index.md",
     "private/Cool end note one liners.md",
     "private",
     "NPC's/Taszo.md",
@@ -227,7 +214,6 @@
     "Locations/The Shattered Plains/The Shattered Plains.md",
     "Locations/Shinovar/Shinovar.md",
     "Player characters/Merikal.md",
-    "Sessions/Session 0 - 24-08-2025.md",
     "Player characters/Aila.md",
     "Untitled.canvas",
     "Player characters/private/Merikal private.md",
@@ -242,7 +228,6 @@
     "NPC's",
     "Locations/Alethkar/Towns and city's",
     "Locations/Alethkar/The 10 great houses of Alethkar",
-    "Images/Session 0.png",
     "Images/Map of roshar.png",
     "Images/Axehounds.jpg",
     "Enemy's/axehounds.md",
