@@ -19,5 +19,5 @@ Take this as both record and guide: a companion to the dice at the table and the
 **De notes bevatten enkel de lore die wij als party zelf hebben ontdekt tijdens de campagne.**  
 Kennis die rechtstreeks uit de boeken of uit wiki’s te halen is, vind je hier dus niet terug—tenzij wij die informatie in het spel zelf hebben ontrafeld.
 
-###### PS.
+**PS.**
 Feedback is welkom. Verbeteringen, toevoegingen etc!
