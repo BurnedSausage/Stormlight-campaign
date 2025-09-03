@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b407dbdf21e247ca",
+        "id": "419643e8736ba4ea",
         "type": "tabs",
         "children": [
           {
-            "id": "6a8ece671d4bde7a",
+            "id": "0cf631c7fabc1a8c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "source/content/.obsidian/app.json",
-                "bFile": "source/content/.obsidian/app.json",
-                "aRef": ""
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           },
           {
@@ -177,33 +180,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a8ece671d4bde7a",
+  "active": "0cf631c7fabc1a8c",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Sessions/Session 0 - 24-08-2025.md",
-    "Player characters/Merikal.md",
-    "Player characters/private/Merikal private.md",
-    "Player characters/Aila.md",
-    "Player characters/private",
-    "Locations/Reshi Isles/Reshi Isles.md",
-    "Locations/Shinovar/Shinovar.md",
-    "Locations/Reshi Isles",
-    "Locations/Alethkar/The 10 great houses of Alethkar/Kholin.md",
+    "NPC's/Taszo.md",
+    "Locations/Roshar.md",
     "Locations/Alethkar/The 10 great houses of Alethkar/Thanadal.md",
+    "Locations/Alethkar/The 10 great houses of Alethkar/Kholin.md",
+    "Locations/Alethkar/Towns and city's/Kholinar.md",
     "Locations/Alethkar/Alethkar.md",
     "Locations/Iri/Iri.md",
+    "Locations/Reshi Isles/Reshi Isles.md",
     "Locations/The Shattered Plains/The Shattered Plains.md",
-    "Locations/Roshar.md",
-    "NPC's/Shardbearer house thanadal.md",
-    "NPC's/Taszo.md",
-    "Templates/Session template.md",
+    "Locations/Shinovar/Shinovar.md",
     "index.md",
+    "Player characters/Merikal.md",
+    "Sessions/Session 0 - 24-08-2025.md",
+    "Player characters/Aila.md",
+    "Untitled.canvas",
+    "Player characters/private/Merikal private.md",
+    "Player characters/private",
+    "Locations/Reshi Isles",
+    "NPC's/Shardbearer house thanadal.md",
+    "Templates/Session template.md",
     "category-folder/index.md",
     "Templates",
     "Sessions",
     "Player characters",
     "NPC's",
-    "Locations/Alethkar/Towns and city's/Kholinar.md",
     "Locations/Alethkar/Towns and city's",
     "Locations/Alethkar/The 10 great houses of Alethkar",
     "Locations/The Shattered Plains",

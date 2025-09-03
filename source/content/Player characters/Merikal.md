@@ -6,3 +6,4 @@ His hair he keeps short in a black buzz cut that doesnt completely hide the Iria
 
 He wears an old ragged looking outfit that could have been described as fancy when it was new. The only piece of clothing that looks well cared for is his boots.
 
+dddddddddd
