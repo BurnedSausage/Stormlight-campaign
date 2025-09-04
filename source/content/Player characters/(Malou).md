@@ -1,0 +1,6 @@
+Player: Malou <br>Origin: [[Kharbranth|Kharbranthian]], [[Shinovar|Shin]] <br> Path: Scholar <br>
+## Appearance
+
+
+## Backstory
+On their way to [[The Shattered Plains]]
