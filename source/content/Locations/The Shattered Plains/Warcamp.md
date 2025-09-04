@@ -1,0 +1,1 @@
+There are 10 [[Warcamp]] on the shattered plains, 1 for each of the princedoms. 

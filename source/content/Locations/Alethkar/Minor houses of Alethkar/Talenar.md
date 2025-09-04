@@ -4,7 +4,7 @@
 
 *Location*: Ancestral manor within [[Kholinar]]
 
-*Trade/Influence*: Known as armorers and lenders. They run forges that supply officers in the warcamps with fine, ornamented plate. They also provide loans with high interest to lesser families.
+*Trade/Influence*: Known as armorers and lenders. They run forges that supply officers in the warcamps on the [[The Shattered Plains]] with fine, ornamented plate. They also provide loans with high interest to lesser families.
 
 *Reputation*: Respected for their craft, despised for their predatory money-lending.
 
@@ -17,4 +17,4 @@
 
 *Brightlord Renat Telenar* – Heir. Known to duel “below his station” for the thrill of it.
 
-*Brightlord Dalvik Telenar* – Younger son, serves in the Sadeas warcamp. 
+*Brightlord Dalvik Telenar* – Younger son, serves in the [[Sadeas]] [[Warcamp]]. 
