@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Alethkar/Minor houses of Alethkar/Talenar.md",
+                "file": "NPC's/Taszo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Talenar"
+              "title": "Taszo"
             }
           },
           {
@@ -194,11 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "0cf631c7fabc1a8c",
   "lastOpenFiles": [
+    "NPC's/Shardbearer house thanadal.md",
+    "NPC's/Taszo.md",
+    "Locations/Alethkar/Minor houses of Alethkar/Talenar.md",
     "Locations/The Shattered Plains/Warcamp.md",
     "Locations/The Shattered Plains/The Shattered Plains.md",
-    "Locations/Alethkar/Minor houses of Alethkar/Talenar.md",
     "Enemy's/axehounds.md",
     "Locations/Alethkar/Princedom houses of Alethkar/Thanadal.md",
     "Locations/Alethkar/Princedom houses of Alethkar/Hatham.md",
@@ -212,9 +214,7 @@
     "Locations/Alethkar/Great houses of Alethkar/Untitled.md",
     "NPC's/Houses/Minor House Talenar.md",
     "Locations/Alethkar/Minor houses of Alethkar",
-    "NPC's/Taszo.md",
     "Locations/Shinovar/Shinovar.md",
-    "NPC's/Shardbearer house thanadal.md",
     "Player characters/Merikal.md",
     "NPC's/Houses/Untitled",
     "NPC's/Houses",

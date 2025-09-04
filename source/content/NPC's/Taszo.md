@@ -1,1 +1,1 @@
-A [[Shinovar|Shin]] man the party encountered on their way to the shattered plains.
+A [[Shinovar|Shin]] man the party encountered on their way to the shattered plains during [[Session 0 - 24-08-2025]].
