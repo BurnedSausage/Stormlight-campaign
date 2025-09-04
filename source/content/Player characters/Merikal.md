@@ -10,6 +10,6 @@ Merikal was born and raised within the walls of [[Kholinar]], a city of careful 
 
 For generations, his family has struggled to make ends meet, often relying on loans and favors from wealthier, higher-Dahn families. The debts are small yet persistent, a reminder of their place in the social order and a source of quiet resentment.
 
-For  a chance to forge his own path, Merikal now journeys to the [[Shattered Plains]]. There he hopes to prove that skill, diligence, and cunning can command respect where birth and wealth have denied it. To ensure that the Tenth-Dahn shoemaker is remembered for more than his station.
+For  a chance to forge his own path, Merikal now journeys to the [[The Shattered Plains]]. There he hopes to prove that skill, diligence, and cunning can command respect where birth and wealth have denied it. To ensure that the Tenth-Dahn shoemaker is remembered for more than his station.
 
 (This backstory has been censored to keep information from fellow players for now)
