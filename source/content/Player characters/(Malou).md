@@ -3,4 +3,4 @@ Player: Malou <br>Origin: [[Kharbranth|Kharbranthian]], [[Shinovar|Shin]] <br> P
 
 
 ## Backstory
-On their way to [[The Shattered Plains]]
+On their way to [[The Shattered Plains]] with [[(Martijn)]], [[(Merijn)]], [[Aila (Richard)|Aila]] and [[Merikal (Koen)|Merikal]]
