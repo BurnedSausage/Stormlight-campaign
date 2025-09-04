@@ -1,4 +1,5 @@
 **Overview**
+
 *Dahn*: 5th
 
 *Location*: Ancestral manor within [[Kholinar]]
@@ -9,6 +10,7 @@
 
 
 **Notable members**
+
 *Brightlord Havril Telenar* – Patriarch. Owns a suit of Shardplate, a family heirloom said to have been salvaged centuries ago.
 
 *Brightlady Issia Telenar* – Matriarch. Manages the family’s lending operations.
