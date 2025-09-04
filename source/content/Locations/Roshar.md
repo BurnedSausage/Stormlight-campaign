@@ -4,7 +4,7 @@ Interactive map: https://roshar.17thshard.com/#/en-US
 Nations and regions:
 [[Alethkar]]
 [[Frostlands]]
-[[Jah Keved]]
+[[Jah Kaved]]
 [[Herdaz]]
 [[Thaylenah]]
 [[Tu bayla]]
