@@ -1,6 +1,7 @@
 ---
-title: Stormlight Campaign
+title: Stonewalkers Campaign
 ---
+![[Stonewalkers.png]]
 ## Welcome to the archive
 
 These pages hold the living record of our journey through Roshar, a world bound by storms, spren, and the mysteries of the Cosmere. A place where heroes are remembered, oaths are tested, and the ever-storm of destiny pushes us forward.

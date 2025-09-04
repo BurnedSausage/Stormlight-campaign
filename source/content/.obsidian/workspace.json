@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player characters/(Malou).md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Malou)"
+              "title": "index"
             }
           },
           {
@@ -194,11 +194,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cf631c7fabc1a8c",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Locations/Shinovar/Shinovar.md",
-    "Player characters/(Malou).md",
+    "Images/Stonewalkers.png",
+    "Enemy's/axehounds.md",
+    "Images/Axehounds.jpg",
+    "Images/Brightlady Ralanat.png",
+    "Images/Map of roshar.png",
+    "Images/Session 0.png",
+    "Images/Shardbearer session 0.png",
+    "Images/Taszo.png",
     "Player characters/(Martijn).md",
+    "Player characters/(Malou).md",
+    "Locations/Shinovar/Shinovar.md",
     "Player characters/(Merijn).md",
     "Player characters/Aila (Richard).md",
     "Player characters/Merikal (Koen).md",
@@ -230,14 +238,6 @@
     "Locations/Iri/Towns and city's",
     "Locations/Herdaz/Towns and city's",
     "Locations/Frostlands/Towns and city's",
-    "Locations/Frostlands/Frostlands.md",
-    "NPC's/Shardbearer house thanadal.md",
-    "Images/Shardbearer session 0.png",
-    "Images/Taszo.png",
-    "Images/Session 0.png",
-    "Images/Map of roshar.png",
-    "Images/Axehounds.jpg",
-    "Images/Brightlady Ralanat.png",
     "Pasted image 20250904103123.png",
     "Pasted image 20250904103042.png",
     "Untitled.canvas"
