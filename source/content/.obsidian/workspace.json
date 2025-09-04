@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "419643e8736ba4ea",
+        "id": "992e20c2f76b025f",
         "type": "tabs",
         "children": [
           {
-            "id": "0cf631c7fabc1a8c",
+            "id": "e32a37d9eb6fe756",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Sessions/Session 0 - 24-08-2025.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Taszo.png"
               },
-              "icon": "lucide-file",
-              "title": "Session 0 - 24-08-2025"
-            }
-          },
-          {
-            "id": "820fad4b55fce389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Cool one liners.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cool one liners"
+              "icon": "lucide-image",
+              "title": "Taszo"
             }
           }
         ]
@@ -108,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player characters/Merikal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Merikal"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player characters/Merikal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Merikal"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player characters/Merikal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Merikal"
+              "title": "Outline"
             }
           },
           {
@@ -194,38 +175,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cf631c7fabc1a8c",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "NPC's/Brightlady Ralanat.md",
-    "NPC's/Taszo.md",
     "NPC's/Shardbearer house thanadal.md",
-    "Pasted image 20250904103123.png",
-    "Pasted image 20250904103042.png",
-    "Templates/NPC Template.md",
-    "Sessions/Session 0 - 24-08-2025.md",
-    "Templates/Session template.md",
-    "Locations/Alethkar/Minor houses of Alethkar/Talenar.md",
-    "Templates/Family or house template.md",
-    "Player characters/Merikal.md",
-    "Player characters/Aila.md",
+    "Images/Brightlady Ralanat.png",
+    "NPC's/Taszo.md",
+    "Images/Taszo.png",
     "Locations/The Shattered Plains/Warcamp.md",
-    "Locations/The Shattered Plains/The Shattered Plains.md",
-    "Enemy's/axehounds.md",
-    "Locations/Alethkar/Princedom houses of Alethkar/Thanadal.md",
-    "Locations/Alethkar/Princedom houses of Alethkar/Hatham.md",
-    "Locations/Alethkar/Princedom houses of Alethkar/Roion.md",
-    "Locations/Alethkar/Princedom houses of Alethkar/Sebarial.md",
-    "Locations/Alethkar/Princedom houses of Alethkar/Ruthar.md",
+    "Templates/Session template.md",
+    "Templates/Family or house template.md",
+    "Templates/NPC Template.md",
+    "Locations/Alethkar/Minor houses of Alethkar/Talenar.md",
     "Locations/Alethkar/Princedom houses of Alethkar/Aladar.md",
     "Locations/Alethkar/Princedom houses of Alethkar/Bethab.md",
-    "Locations/Alethkar/Princedom houses of Alethkar/Vamah.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Hatham.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Kholin.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Roion.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Ruthar.md",
     "Locations/Alethkar/Princedom houses of Alethkar/Sadeas.md",
-    "Locations/Alethkar/Great houses of Alethkar/Untitled.md",
-    "NPC's/Houses/Minor House Talenar.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Sebarial.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Thanadal.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Vamah.md",
+    "index.md",
+    "private/Cool one liners.md",
+    "Locations/Alethkar/Princedom houses of Alethkar",
     "Locations/Alethkar/Minor houses of Alethkar",
-    "Locations/Shinovar/Shinovar.md",
-    "NPC's/Houses/Untitled",
-    "NPC's/Houses",
+    "private/Install guide.md",
+    "Player characters/private/Merikal backstory uncensored.md",
+    "Player characters/Merikal.md",
+    "Player characters/private/rival family.md",
+    "Locations/Iri/Iri.md",
+    "Sessions/Session 0 - 24-08-2025.md",
     "Images/Session 0.png",
     "private",
     "private",
@@ -235,6 +216,7 @@
     "Templates",
     "Sessions",
     "Player characters",
+    "NPC's",
     "Images/Map of roshar.png",
     "Images/Axehounds.jpg"
   ]
