@@ -15,4 +15,4 @@
 
 **Brightlord Renat Telenar** – Heir. Known to duel “below his station” for the thrill of it.
 
-**Brightlord Dalvik Telenar** – Younger son, serves in the [[Sadeas]] [[Warcamp]]. 
+**Brightlord Dalvik Telenar** – Younger son, serves in the [[Sadeas]] [[Warcamps]]. 
