@@ -1,4 +1,4 @@
-Player: Malou <br>Origin: [[Kharbranth|Kharbranthian]], [[Shinovar|Shin]] <br> Path: Scholar <br>
+Player: Malou <br>Origin: [[Kharbranth|Kharbranthian]], [[Azir|Azish]] <br> Path: Scholar <br>
 ## Appearance
 
 
