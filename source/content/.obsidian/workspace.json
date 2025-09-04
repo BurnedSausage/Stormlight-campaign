@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Alethkar/Minor houses of Alethkar/Talenar.md",
+                "file": "Locations/Alethkar/Princedom houses of Alethkar/Hatham.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Talenar"
+              "title": "Hatham"
             }
           },
           {
@@ -194,10 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "0cf631c7fabc1a8c",
   "lastOpenFiles": [
-    "Locations/Alethkar/Great houses of Alethkar/Untitled.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Roion.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Hatham.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Sebarial.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Ruthar.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Aladar.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Bethab.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Vamah.md",
+    "Locations/Alethkar/Princedom houses of Alethkar/Sadeas.md",
     "Locations/Alethkar/Minor houses of Alethkar/Talenar.md",
+    "Locations/Alethkar/Great houses of Alethkar/Untitled.md",
     "NPC's/Houses/Minor House Talenar.md",
     "Locations/Alethkar/Minor houses of Alethkar",
     "NPC's/Taszo.md",
@@ -220,21 +228,13 @@
     "Locations/Roshar.md",
     "Locations/Alethkar/Princedom houses of Alethkar/Thanadal.md",
     "Locations/Alethkar/Princedom houses of Alethkar/Kholin.md",
-    "Locations/Alethkar/Towns and city's/Kholinar.md",
-    "Locations/Alethkar/Alethkar.md",
-    "Locations/Reshi Isles/Reshi Isles.md",
-    "Locations/The Shattered Plains/The Shattered Plains.md",
-    "Player characters/Aila.md",
     "Untitled.canvas",
     "Player characters/private",
     "Locations/Reshi Isles",
-    "category-folder/index.md",
     "Templates",
     "Sessions",
     "Player characters",
     "Images/Map of roshar.png",
-    "Images/Axehounds.jpg",
-    "Enemy's/axehounds.md",
-    "category-folder/Some note.md"
+    "Images/Axehounds.jpg"
   ]
 }
