@@ -5,13 +5,13 @@ ___
 Location: <br>
 DM: Ruben
 
-| Player  | Character   | Present |
-| ------- | ----------- | ------- |
-| Koen    | [[Merikal]] | Yes     |
-| Malou   |             | Yes     |
-| Martijn |             | Yes     |
-| Merijn  |             | Yes     |
-| Richard | [[Aila]]    | Yes     |
+| Player  | Character                               | Present |
+| ------- | --------------------------------------- | ------- |
+| Koen    | [[Merikal]]                             | Yes     |
+| Malou   | [[Degal Lamar]]                         | Yes     |
+| Martijn | [[Shulla]]                              | Yes     |
+| Merijn  | [[Roka (Rokumari'ataanor'ukai'anamor)]] | Yes     |
+| Richard | [[Aila]]                                | Yes     |
 
 ## Summary  
 
