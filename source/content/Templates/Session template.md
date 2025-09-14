@@ -7,11 +7,11 @@ DM: Ruben
 
 | Player  | Character   | Present |
 | ------- | ----------- | ------- |
-| Koen    | [[Merikal (Koen)]] | Yes     |
+| Koen    | [[Merikal]] | Yes     |
 | Malou   |             | Yes     |
 | Martijn |             | Yes     |
 | Merijn  |             | Yes     |
-| Richard | [[Aila (Richard)]]    | Yes     |
+| Richard | [[Aila]]    | Yes     |
 
 ## Summary  
 

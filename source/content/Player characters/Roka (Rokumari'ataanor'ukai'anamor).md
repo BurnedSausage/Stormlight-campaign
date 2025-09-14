@@ -3,4 +3,4 @@ Player: Merijn <br>Origin: [[Horneater Peaks|Unkalaki]], [[Alethkar|Alethi]] <br
 
 
 ## Backstory
-On their way to [[The Shattered Plains]] with [[(Martijn)]], [[(Malou)]], [[Aila (Richard)|Aila]] and [[Merikal (Koen)|Merikal]]
+On their way to [[The Shattered Plains]] with [[Shulla]], [[Degal Lamar]], [[Aila|Aila]] and [[Merikal|Merikal]]
