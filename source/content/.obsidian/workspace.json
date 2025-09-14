@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sessions/Session 0 - 24-08-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Session 0 - 24-08-2025"
             }
           },
           {
@@ -194,25 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "0cf631c7fabc1a8c",
   "lastOpenFiles": [
+    "Templates/Family or house template.md",
+    "Sessions/Session 0 - 24-08-2025.md",
+    "Templates/Session template.md",
+    "Player characters/Roka (Rokumari'ataanor'ukai'anamor).md",
+    "Player characters/Aila.md",
+    "Player characters/Degal Lamar.md",
+    "Player characters/Merikal.md",
+    "Player characters/Shulla.md",
+    "index.md",
     "Images/Stonewalkers.png",
-    "Enemy's/axehounds.md",
-    "Images/Axehounds.jpg",
-    "Images/Brightlady Ralanat.png",
-    "Images/Map of roshar.png",
-    "Images/Session 0.png",
-    "Images/Shardbearer session 0.png",
-    "Images/Taszo.png",
-    "Player characters/(Martijn).md",
-    "Player characters/(Malou).md",
-    "Locations/Shinovar/Shinovar.md",
-    "Player characters/(Merijn).md",
-    "Player characters/Aila (Richard).md",
-    "Player characters/Merikal (Koen).md",
     "Locations/Reshi Isles/Reshi Isles.md",
     "Locations/Alethkar/Alethkar.md",
     "Locations/Frostlands/Towns and city's/Kharbranth.md",
+    "Locations/Shinovar/Shinovar.md",
     "Locations/Iri/Iri.md",
     "Locations/Roshar.md",
     "Locations/Jah Kaved/Horneater Peaks.md",
@@ -227,8 +224,6 @@
     "Locations/Iri/Towns and city's/Kasitor.md",
     "Locations/Iri/Towns and city's/Ral Elorim.md",
     "Locations/Azir/Towns and city's/Azimir.md",
-    "Locations/Aimia/Towns and city's/Untitled.md",
-    "Locations/Thaylenah/Towns and city's/Thaylen city.md",
     "Locations/Unclaimed Hills/Untitled",
     "Locations/Thaylenah/Towns and city's",
     "Locations/Shinovar/Towns and city's",
@@ -238,6 +233,12 @@
     "Locations/Iri/Towns and city's",
     "Locations/Herdaz/Towns and city's",
     "Locations/Frostlands/Towns and city's",
+    "Images/Shardbearer session 0.png",
+    "Images/Taszo.png",
+    "Images/Session 0.png",
+    "Images/Map of roshar.png",
+    "Images/Axehounds.jpg",
+    "Images/Brightlady Ralanat.png",
     "Pasted image 20250904103123.png",
     "Pasted image 20250904103042.png",
     "Untitled.canvas"
