@@ -7,3 +7,4 @@ has a broken arm.
 ![[Taszo.png]]
 ## Information
 A [[Shinovar|Shin]] man the party encountered on their way to the shattered plains during [[Session 0 - 24-08-2025]].
+Deceased as of [[Session 1  - 14-09-2025]].
