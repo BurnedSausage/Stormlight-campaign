@@ -1,3 +1,4 @@
+(Rokumari'ataànor'ukai'anamor)
 Player: Merijn <br>Origin: [[Horneater Peaks|Unkalaki]], [[Alethkar|Alethi]] <br> Path: Warrior <br>
 ## Appearance
 

@@ -14,4 +14,4 @@ For  a chance to forge his own path, Merikal now journeys to the [[The Shattered
 
 (This backstory has been censored to keep information from fellow players for now)
 
-On their way to [[The Shattered Plains]] with [[Shulla]], [[Roka (Rokumari'ataanor'ukai'anamor)]], [[Degal Lamar]] and [[Degal Lamar]]
+On their way to [[The Shattered Plains]] with [[Shulla]], [[Roka]], [[Degal Lamar]] and [[Degal Lamar]]

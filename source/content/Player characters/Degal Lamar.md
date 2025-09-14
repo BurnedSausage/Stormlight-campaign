@@ -3,4 +3,4 @@ Player: Malou <br>Origin: [[Kharbranth|Kharbranthian]], [[Azir|Azish]] <br> Path
 
 
 ## Backstory
-On their way to [[The Shattered Plains]] with [[Shulla]], [[Roka (Rokumari'ataanor'ukai'anamor)]], [[Aila|Aila]] and [[Merikal|Merikal]]
+On their way to [[The Shattered Plains]] with [[Shulla]], [[Roka]], [[Aila|Aila]] and [[Merikal|Merikal]]

@@ -10,7 +10,7 @@ DM: Ruben
 | Koen    | [[Merikal]]                             | Yes     |
 | Malou   | [[Degal Lamar]]                         | Yes     |
 | Martijn | [[Shulla]]                              | Yes     |
-| Merijn  | [[Roka (Rokumari'ataanor'ukai'anamor)]] | Yes     |
+| Merijn  | [[Roka]] | Yes     |
 | Richard | [[Aila]]                                | Yes     |
 
 ## Summary  

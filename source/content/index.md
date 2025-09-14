@@ -14,6 +14,7 @@ Take this as both record and guide: a companion to the dice at the table and the
 
 ## Sessions logs
 [[Session 0 - 24-08-2025]]
+[[Session 1  - 14-09-2025]]
 
 #### Disclaimer
 
