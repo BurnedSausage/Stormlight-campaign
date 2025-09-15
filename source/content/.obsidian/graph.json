@@ -8,73 +8,73 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Player characters\"  ",
+      "query": "path:Sessions  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16017391
+      }
+    },
+    {
+      "query": "path:\"Locations/Alethkar/Princedom houses of Alethkar\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13077742
       }
     },
     {
       "query": "path:NPC's  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#country  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 6391802
       }
     },
     {
       "query": "tag:#cityOrTown  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 6084188
       }
     },
     {
-      "query": "path:\"Locations/Alethkar/The 10 great houses of Alethkar\"  ",
+      "query": "tag:#country  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 6084269
       }
     },
     {
-      "query": "path:Sessions  ",
+      "query": "tag:#Continent  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 16250871
       }
     },
     {
-      "query": "",
+      "query": "path:\"Player characters\"  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 2434445
+      }
+    },
+    {
+      "query": "path: \"Locations/Alethkar/Minor houses of Alethkar\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9783030
+      }
+    },
+    {
+      "query": "path:\"Radiant Orders\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14132576
       }
     },
     {
       "query": "path:Enemy's  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "path:Templates  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
+        "rgb": 14048348
       }
     }
   ],
@@ -88,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224461,
+  "scale": 0.5087618855792598,
   "close": false
 }
