@@ -1,6 +1,6 @@
 ## Appearance
 Taszo (“TAH-zo”; he/him) is 
-a Shin human in his early thirties. He is short—even by 
+a [[Shinovar||Shin]] human in his early thirties. He is short—even by 
 Shin standards—with pale pink skin, round dark-blue 
 eyes, and a crop of curly dust-blond hair. He currently 
 has a broken arm.

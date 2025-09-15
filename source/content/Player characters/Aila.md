@@ -1,4 +1,4 @@
-Player: Richard <br>Origin: [[Reshi Isles|Reshi]],  [[Kharbranth|Kharbranthian]]<br>Path: <br>
+Player: Richard <br>Origin: [[Reshi Isles|Reshi]],  [[Kharbranth|Kharbranthian]]<br>Path: Hunter<br>
 
 ## Appearance
 Aila is a young Reshi woman in her mid twenties. She has a lithe build, dark skin and long braids
