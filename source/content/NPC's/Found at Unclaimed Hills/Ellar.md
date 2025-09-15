@@ -1,4 +1,4 @@
 ## Appearance
-Ellar (“EH-lar”; he/him) is a human [[Alethi]] sergeant with close-shaved hair
+Ellar (“EH-lar”; he/him) is a human [[Alethkar|Alethi]] sergeant with close-shaved hair
 
 ## Information

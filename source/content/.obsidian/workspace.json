@@ -11,10 +11,42 @@
             "id": "0cf631c7fabc1a8c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Heralds/Talenel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Talenel"
+            }
+          },
+          {
+            "id": "2f76750e08c3eef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Heralds/Battar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Battar"
+            }
+          },
+          {
+            "id": "820fad4b55fce389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/Cool one liners.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cool one liners"
             }
           }
         ]
@@ -70,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,52 +210,52 @@
   },
   "active": "0cf631c7fabc1a8c",
   "lastOpenFiles": [
-    "Radiant Orders/Stonewarden.md",
+    "NPC's/Heralds/Ishar.md",
+    "NPC's/Heralds/Chanarach.md",
+    "NPC's/Heralds/Battar.md",
+    "NPC's/Found at Unclaimed Hills/Taszo.md",
+    "NPC's/Found at Unclaimed Hills/Svalka.md",
+    "NPC's/Found at Unclaimed Hills/Shardbearer house thanadal.md",
+    "NPC's/Found at Unclaimed Hills/Nen.md",
+    "NPC's/Found at Unclaimed Hills/Ellar.md",
+    "NPC's/Found at Unclaimed Hills/Brightlady Ralanat.md",
+    "NPC's/Found at Unclaimed Hills/Bordin.md",
     "NPC's/Found at Shattered Plains/Dalinar.md",
-    "Locations/Unclaimed Hills/Warcamps.md",
-    "Locations/Alethkar/Minor houses of Alethkar/Talenar.md",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Enemy's/axehounds.md",
-    "Greater Hexi.md",
-    "Locations/Roshar.md",
-    "Locations/Rira/Rira.md",
-    "Locations/Unclaimed Hills/Covenant crossroads.md",
-    "Locations/Unclaimed Hills/The Shattered Plains.md",
-    "Locations/Unclaimed Hills/Unclaimed Hills.md",
-    "Locations/Thaylenah/Towns and city's/Thaylen city.md",
-    "Locations/Thaylenah/Thaylenah.md",
-    "Locations/Shinovar/Shinovar.md",
-    "Locations/Reshi Isles/Reshi Isles.md",
-    "Locations/Jah Kaved/Horneater Peaks.md",
-    "Locations/Jah Kaved/Jah Kaved.md",
-    "Locations/Iri/Iri.md",
-    "Locations/Herdaz/Herdaz.md",
-    "Locations/Frostlands/Frostlands.md",
-    "Locations/Frostlands/Towns and city's/Kharbranth.md",
-    "Locations/Azir/Azir.md",
-    "Locations/Azir/Towns and city's/Azimir.md",
-    "NPC's/Heralds/Jezrien.md",
-    "private/Cool one liners.md",
-    "Locations/Rira/Towns and city's/Kurth.md",
-    "Untitled 1.base",
-    "Images/Talenel.png",
-    "Pasted image 20250915090542.png",
-    "Images/NPC Bordin.png",
-    "NPC's/Found at Unclaimed Hills/Bad guys",
-    "NPC's/Found at Shattered Plains",
-    "NPC's/Found at Unclaimed Hills",
+    "NPC's/Found at Shattered Plains/Liss.md",
+    "Sessions/Session 1  - 14-09-2025.md",
+    "Player characters/Aila.md",
+    "Player characters/Degal Lamar.md",
+    "Player characters/Merikal.md",
+    "Player characters/Roka.md",
+    "Player characters/Shulla.md",
+    "NPC's/Heralds/Talenel.md",
+    "Radiant Orders/Stonewarden.md",
+    "Sessions/Session 0 - 24-08-2025.md",
     "Radiant Orders",
+    "NPC's/Heralds/Vedel.md",
+    "NPC's/Heralds/Shallash.md",
+    "NPC's/Heralds/Pralla.md",
+    "NPC's/Heralds/Nale.md",
+    "NPC's/Heralds/Kalak.md",
     "NPC's/Heralds",
+    "NPC's/Found at Unclaimed Hills/Bad guys",
+    "NPC's/Found at Unclaimed Hills",
+    "NPC's/Found at Shattered Plains",
+    "Images/Talenel.png",
+    "Images/NPC Bordin.png",
     "Images/Session 1-2.png",
     "Images/Session 1-1.png",
-    "Images/Stonewalkers.png",
-    "Images/Axehounds.jpg",
-    "Images/Brightlady Ralanat.png",
     "Images/Map of roshar.png",
-    "Images/Session 0.png",
+    "Random bits an bops",
+    "Images/Stonewalkers.png",
     "Locations/Shinovar/Towns and city's",
     "Locations/Unclaimed Hills/Untitled",
-    "Locations/Thaylenah/Towns and city's"
+    "Locations/Thaylenah/Towns and city's",
+    "Locations/Shinovar/Towns and city's",
+    "Images/Shardbearer session 0.png",
+    "Images/Taszo.png",
+    "Images/Session 0.png",
+    "Images/Axehounds.jpg",
+    "Untitled.canvas"
   ]
 }
