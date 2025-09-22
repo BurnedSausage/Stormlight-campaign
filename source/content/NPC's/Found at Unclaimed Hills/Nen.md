@@ -1,5 +1,5 @@
 ## Appearance
-[[Alethi]] merchant
+[[Alethkar|Alethi]] merchant
 
 ## Information
 

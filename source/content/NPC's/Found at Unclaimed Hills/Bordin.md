@@ -1,5 +1,5 @@
 ## Appearance
-Bordin (“BOR-din”; he/him) is an innocuous dark-eyed [[Alethi]] human; he has short dark hair, pronounced eyebrows, and wears the distinct blue of House [[Kholin]].
+Bordin (“BOR-din”; he/him) is an innocuous dark-eyed [[Alethkar|Alethi]] human; he has short dark hair, pronounced eyebrows, and wears the distinct blue of House [[Kholin]].
 
 ![[NPC Bordin.png]]
 ## Information

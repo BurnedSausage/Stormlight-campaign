@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "987b2322ed0c4c1e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "source/content/NPC's/Found at Unclaimed Hills/Bordin.md",
+                "bFile": "source/content/NPC's/Found at Unclaimed Hills/Bordin.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Bordin"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,8 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cf631c7fabc1a8c",
+  "active": "987b2322ed0c4c1e",
   "lastOpenFiles": [
+    "Enemy's/axehounds.md",
+    "Untitled 3.base",
+    "Untitled 1.canvas",
+    "Untitled 2.base",
+    "conflict-files-obsidian-git.md",
     "Locations/Reshi Isles/Reshi Isles.md",
     "Player characters/Aila.md",
     "Radiant Orders/Stonewarden.md",
@@ -187,7 +206,6 @@
     "Locations/Alethkar/Minor houses of Alethkar/Talenar.md",
     "Untitled.canvas",
     "Untitled.base",
-    "Enemy's/axehounds.md",
     "Greater Hexi.md",
     "Locations/Roshar.md",
     "Locations/Rira/Rira.md",
@@ -205,8 +223,6 @@
     "Locations/Frostlands/Towns and city's/Kharbranth.md",
     "Locations/Azir/Azir.md",
     "Locations/Azir/Towns and city's/Azimir.md",
-    "NPC's/Heralds/Jezrien.md",
-    "private/Cool one liners.md",
     "Untitled 1.base",
     "Images/Talenel.png",
     "Pasted image 20250915090542.png",
@@ -223,8 +239,6 @@
     "Images/Brightlady Ralanat.png",
     "Images/Map of roshar.png",
     "Images/Session 0.png",
-    "Locations/Shinovar/Towns and city's",
-    "Locations/Unclaimed Hills/Untitled",
-    "Locations/Thaylenah/Towns and city's"
+    "Locations/Shinovar/Towns and city's"
   ]
 }
