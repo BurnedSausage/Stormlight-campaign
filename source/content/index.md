@@ -15,7 +15,8 @@ Take this as both record and guide: a companion to the dice at the table and the
 ## Sessions logs
 [[Session 0 - 24-08-2025]] <br>
 [[Session 1  - 14-09-2025]] <br>
-[[Session 2 - 28-09-2025 WIP]]
+[[Session 2 - 28-09-2025 WIP]]<br>
+[[Session 3 - 05-10-2025]]
 
 #### Disclaimer
 
